@@ -1,0 +1,61 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Pattaya', sans-serif;
+}
+.heading_div{
+    color: coral;
+    background-color: gold;
+}
+.heading_div img{
+    width: 100px;
+}
+.main_div{
+    background-color: rgb(32, 233, 166);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid red;
+}
+.main_div label{
+    width: 310px;
+    background-color: cyan;
+    color: green;
+    box-shadow: 5px 5px 18px grey;
+    font-size: 21px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+.main_div button{
+ font-size: 21px;
+ width: 310px;
+ box-shadow: 5px 5px 18px grey;
+ border: 1px solid;
+}
+#camera , #result{
+    width: 320px;
+    height: 300px;
+    box-shadow: 5px 5px 18px grey;
+    border: 2px solid white;
+}
+.footer_div{
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+.footer_div h4{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px grey;
+}
+.footer_div img{
+    width: 100px;
+}
+.copyright_footer{
+    background-color: deepskyblue;
+    color: orangered;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    font-size: 21px;
+}
